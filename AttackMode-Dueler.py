@@ -1,4 +1,4 @@
-# SinglCMD 
+# کیر خر تو کص مادر هرکس کد رو دستکاری کنه یا اسکی و کپی بره
 import datetime
 from babase import Plugin
 from bauiv1 import (
@@ -21,7 +21,7 @@ from bascenev1 import (
     get_game_roster,
     disconnect_client
 )
-MASTER_ACCOUNT = "Dueler" 
+MASTER_ACCOUNT = "DuelerX" 
 EXPIRY_DATE = "2026-03-06"  
 attack_targets = {}  
 _singlcmd_instance = None  
