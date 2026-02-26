@@ -1,4 +1,4 @@
-# SinglCMD 
+# کیر خر تو کص مادر هرکس این کد رو انگول کنه
 import datetime
 from babase import Plugin
 from bauiv1 import (
