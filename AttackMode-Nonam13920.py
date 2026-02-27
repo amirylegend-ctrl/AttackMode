@@ -1,4 +1,4 @@
-کیر خر تو کص مادر هرکس این کد رو دستکاری ادیت کپی کنه
+#کیر خر تو کص مادر هرکس این کد رو دستکاری ادیت کپی کنه
 import datetime
 from babase import Plugin
 from bauiv1 import (
