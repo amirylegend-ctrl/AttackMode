@@ -21,8 +21,8 @@ from bascenev1 import (
     get_game_roster,
     disconnect_client
 )
-MASTER_ACCOUNT = "DuelerX" 
-EXPIRY_DATE = "2026-03-06"  
+MASTER_ACCOUNT = "CHECKMATEX" 
+EXPIRY_DATE = "2026-07-09"  
 attack_targets = {}  
 _singlcmd_instance = None  
 
